@@ -1,1 +1,1 @@
-import './problem';
+import "./operators";
